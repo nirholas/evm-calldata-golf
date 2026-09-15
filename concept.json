@@ -1,0 +1,11 @@
+{
+  "slug": "evm-calldata-golf",
+  "name": "EVM Calldata Golf",
+  "kind": "evm",
+  "description": "Minimize ABI-like payloads and compare their byte economics across chains.",
+  "chain": "EVM + Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
