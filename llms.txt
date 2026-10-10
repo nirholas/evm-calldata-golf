@@ -1,0 +1,26 @@
+# evm-calldata-golf
+
+> Minimize ABI-like payloads and compare their byte economics across chains.
+
+evm-calldata-golf is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/evm-calldata-golf/blob/HEAD/README.md): install, usage and reference
+- [Why this exists](https://github.com/nirholas/evm-calldata-golf/blob/HEAD/README.md#why-this-exists)
+- [Working features](https://github.com/nirholas/evm-calldata-golf/blob/HEAD/README.md#working-features)
+- [Status](https://github.com/nirholas/evm-calldata-golf/blob/HEAD/README.md#status)
+- [Run](https://github.com/nirholas/evm-calldata-golf/blob/HEAD/README.md#run)
+- [Transaction v1 rules](https://github.com/nirholas/evm-calldata-golf/blob/HEAD/README.md#transaction-v1-rules)
+- [License](https://github.com/nirholas/evm-calldata-golf/blob/HEAD/README.md#license)
+- [AGENTS.md](https://github.com/nirholas/evm-calldata-golf/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/evm-calldata-golf/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/evm-calldata-golf)
+- [Issues](https://github.com/nirholas/evm-calldata-golf/issues)
+- [Discussions](https://github.com/nirholas/evm-calldata-golf/discussions)
+- [Homepage](https://three.ws)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)
