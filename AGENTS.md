@@ -8,7 +8,7 @@ Minimize ABI-like payloads and compare their byte economics across chains.
 
 - Source: https://github.com/nirholas/evm-calldata-golf
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
